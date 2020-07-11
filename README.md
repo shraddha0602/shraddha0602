@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ## 🌱 I’m currently learning
 - Ethereum 
 - Golang 
-<img src="gopher.gif" width="100">
+<img src="https://github.com/shraddha0602/shraddha0602/blob/master/assets/gopher.gif" width="100">
